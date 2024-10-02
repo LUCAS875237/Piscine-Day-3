@@ -15,8 +15,4 @@ while(i < busStops.length){
 return -1
 }
 console.log(fillBus([1, 3, 10, 1] 12))
-function capitalize(words){
-    return words.map(word => word.toUpperCase());
-}
-const result = capitalize (["CHANGE", "this", "array", "BY", "ThE", "RESULT", "oF", "youR",  "FUNCTION", "TO", "test","IT", "OUT"])
-displayResult(result)
+
